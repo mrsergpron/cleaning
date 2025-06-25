@@ -4367,6 +4367,7 @@ fieldset {
 .price__bottom {
   max-width: 44.625rem;
   margin: 0 auto;
+  margin-top: 2rem;
 }
 
 .bottom-price__image {
